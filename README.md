@@ -9,7 +9,7 @@ Flask is a web application framework written in Python. Armin Ronacher, who lead
 1. Download the project
 
    ```
-   $ git clone https://github.com/iamRajatSharma/hello_flask.git  pip install -r requirements.txt
+   $ git clone https://github.com/iamRajatSharma/hello_flask.git
    $ cd hello_flask
    ```
 
